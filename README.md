@@ -1,6 +1,6 @@
 # helpatprovider
 
-A new Flutter application.
+online admin app.
 
 ## Getting Started
 
